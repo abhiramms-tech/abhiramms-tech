@@ -1,16 +1,19 @@
-## Hi there 👋
+<h1 align="center" style="font-size: 50px; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
+  <span style="color: #FF4136;">👋</span> Hello, everyone!
+  <br>
+  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="100" height="100" style="border-radius: 50%; margin-top: 20px;">
+</h1>
 
-<!--
-**abhiramms-tech/abhiramms-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2 align="center">Welcome to my GitHub profile!</h2>
 
-Here are some ideas to get you started:
+<p align="center" style="margin-top: 40px; font-size: 18px;">
+  I hope you find my projects and repositories interesting and useful. Feel free to explore and don't hesitate to contact me if you have any questions or feedback.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  Happy coding! 👨‍💻🚀😊
+</p>
+
+
+
+
